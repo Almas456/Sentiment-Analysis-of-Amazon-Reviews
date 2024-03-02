@@ -1,4 +1,4 @@
-# Sentiment Analysis using Amazon Reviews
+# Sentiment Analysis of Amazon Reviews
 ## Overview
 Using a [corpus of 34.6 million Amazon reviews](http://snap.stanford.edu/data/web-Amazon.html) collected by Jure Leskovec over 18 years, we created a sentiment dictionary containing 97,436 unique words that correspond to a zero-centered floating point sentiment score.
 ## Process
